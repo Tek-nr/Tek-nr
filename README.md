@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-![Image of Cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fberrak21425930&psig=AOvVaw3Wj3p0zsXh8AL53NyJrpCy&ust=1644240173805000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLik7Y-W6_UCFQAAAAAdAAAAABAD)
+![Image of Cat](https://pbs.twimg.com/profile_images/1358124330706735104/SGfz-j6E_400x400.jpg)
 
 - 🔭 I’m currently working on Data Science, Machine Learning, Deep Learning
 - 🌱 I’m currently learning Machine Learning
