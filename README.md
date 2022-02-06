@@ -8,10 +8,6 @@ Here are some ideas to get you started:-->
 ![Image of Cat](https://pbs.twimg.com/profile_images/1358124330706735104/SGfz-j6E_400x400.jpg)
 
 - 🔭 I’m currently working on Data Science, Machine Learning, Deep Learning
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ML
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hilalntek/) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can't sleep at night
