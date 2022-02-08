@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 <div>
-<img align="left" src = "https://c.tenor.com/FR_BAahhO6sAAAAC/parkour-the-office.gif">
+<img align="left" src = "https://camo.githubusercontent.com/f2c0d48918dd65b9b4ed7580e06500686775cbcd0c73e8cef52ede011773728b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f674142504c56346c4a3577734d2f67697068792e676966">
 
 🔭 I’m currently working on Data Science, Machine Learning <br>
 👾 I'm participant of Kodluyoruz Data Science Bootcamp & Google Game and Application Academy <br>
