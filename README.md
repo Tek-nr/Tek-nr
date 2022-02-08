@@ -10,6 +10,7 @@ Here are some ideas to get you started:-->
 <img align="left" src = "https://camo.githubusercontent.com/f2c0d48918dd65b9b4ed7580e06500686775cbcd0c73e8cef52ede011773728b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f674142504c56346c4a3577734d2f67697068792e676966">
 
 🔭 I’m currently working on Data Science, Machine Learning <br>
+🤖 I'm currently learning SQL, Machine Learning & Project Management 
 👾 I'm participant of Kodluyoruz Data Science Bootcamp & Google Game and Application Academy <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/hilalntek/">LinkedIn</a> <br>
 ⚡ Fun fact: I hate Nutella <br> 
@@ -18,6 +19,7 @@ Here are some ideas to get you started:-->
 <div align="center">
 <a><img  src="https://github-readme-stats.vercel.app/api?username=Tek-nr&show_icons=true&theme=radical" alt="tek-nr" width="49%"></a>
 <a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tek-nr&theme=radical" alt="tek-nr" width="49%"></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tek-nr&show_icons=true&locale=en&layout=compact&theme=radical" alt="tek-nr" width="40%"></p>
 <div>
 
 <!--<a href="https://github.com/Tek-nr/a-life-on-the-street">
