@@ -18,7 +18,6 @@ Here are some ideas to get you started:-->
 <div align="center">
 <a><img  src="https://github-readme-stats.vercel.app/api?username=Tek-nr&show_icons=true&theme=radical" alt="tek-nr" width="49%"></a>
 <a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tek-nr&theme=radical" alt="tek-nr" width="49%"></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tek-nr&show_icons=true&locale=en&layout=compact&theme=radical" alt="tek-nr" width="40%"></p>
 <div>
 
 <!--<a href="https://github.com/Tek-nr/a-life-on-the-street">
