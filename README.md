@@ -13,6 +13,9 @@ Here are some ideas to get you started:-->
 👾 I'm participant of Kodluyoruz Data Science Bootcamp <br> & Google Game and Application Academy <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/hilalntek/">LinkedIn</a> <br>
 ⚡ Fun fact: I hate Nutella <br>
+  
+ <img align="left" src = "https://thumbs.gfycat.com/AnnualEarlyAmericanbobtail-size_restricted.gif" weight=3000> 
+  
 </div>
 
 <div align="right">
