@@ -6,14 +6,14 @@
 **Tek-nr/Tek-nr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-<div align="center">
-<img src = "https://s.yimg.com/ny/api/res/1.2/_5x1AtfsvzNdLuhNjh.tpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTIxMw--/https://s.yimg.com/uu/api/res/1.2/vKv_Zuu04ZUjv7FHfRfPWA--~B/aD0yMTM7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/the_mighty_beauty_225/4a3fc48928f65674c8d7bce358ac5968">
+
+<img align="left" src = "https://c.tenor.com/_ajmqTA0TY4AAAAC/hello-beautiful.gif">
 
 🔭 I’m currently working on Data Science, Machine Learning <br>
 👾 I'm participant of Kodluyoruz Data Science Bootcamp <br> & Google Game and Application Academy <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/hilalntek/">LinkedIn</a> <br>
 ⚡ Fun fact: I hate Nutella <br>
-</div>
+
 
 
 
