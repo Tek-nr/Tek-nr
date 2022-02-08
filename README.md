@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 ⚡ Fun fact: I hate Nutella <br>
 </div>
 
-<div align="center">
+<div align="right">
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tek-nr&show_icons=true&theme=radical" alt="tek-nr" /></a>
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tek-nr&theme=radical" alt="tek-nr" /></a>
 </div>
