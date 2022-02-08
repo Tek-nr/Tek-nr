@@ -6,19 +6,19 @@
 **Tek-nr/Tek-nr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
+<div>
 <img align="left" src = "https://c.tenor.com/_ajmqTA0TY4AAAAC/hello-beautiful.gif">
 
 🔭 I’m currently working on Data Science, Machine Learning <br>
 👾 I'm participant of Kodluyoruz Data Science Bootcamp <br> & Google Game and Application Academy <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/hilalntek/">LinkedIn</a> <br>
 ⚡ Fun fact: I hate Nutella <br>
+</div>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tek-nr&layout=compact&theme=radical)](https://github.com/Tek-nr/github-readme-stats&theme=radical)
+<div align="center">
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tek-nr&show_icons=true&theme=radical" alt="tek-nr" /></a>
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tek-nr&theme=radical" alt="tek-nr" /></a>
+</div>
 
 <!--<a href="https://github.com/Tek-nr/a-life-on-the-street">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tek-nr&repo=a-life-on-the-street&theme=radical" />
