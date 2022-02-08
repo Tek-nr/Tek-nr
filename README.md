@@ -13,9 +13,7 @@ Here are some ideas to get you started:-->
 👾 I'm participant of Kodluyoruz Data Science Bootcamp <br> & Google Game and Application Academy <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/hilalntek/">LinkedIn</a> <br>
 ⚡ Fun fact: I hate Nutella <br> 
- 
- <img align="left" src = "https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200w.gif?cid=82a1493bkw6lyj2nyadm4cec9hahufvmbip6zl88qnaaomhs&rid=200w.gif&ct=g">
-</div>
+ </div>
 
 <div align="left">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tek-nr&show_icons=true&locale=en&layout=compact&theme=radical" alt="tek-nr" width="40%"></p>
