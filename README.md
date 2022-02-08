@@ -18,6 +18,7 @@ Here are some ideas to get you started:-->
 
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tek-nr&show_icons=true&theme=radical" alt="tek-nr" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tek-nr&layout=compact&theme=radical)](https://github.com/Tek-nr/github-readme-stats&theme=radical)
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tek-nr&theme=radical" alt="tek-nr" /></a>
 
 <!--<a href="https://github.com/Tek-nr/a-life-on-the-street">
@@ -27,7 +28,6 @@ Here are some ideas to get you started:-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tek-nr&repo=BTSvsALL&theme=radical" />
 </a>-->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tek-nr&layout=compact&theme=radical)](https://github.com/Tek-nr/github-readme-stats&theme=radical)
 
 
 <h3 align="center">Languages and Tools:</h3>
