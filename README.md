@@ -20,12 +20,12 @@ Here are some ideas to get you started:-->
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tek-nr&theme=radical" alt="tek-nr" /></a>
 
 
-<a href="https://github.com/Tek-nr/a-life-on-the-street">
+<!--<a href="https://github.com/Tek-nr/a-life-on-the-street">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tek-nr&repo=a-life-on-the-street&theme=radical" />
 </a>
 <a href="https://github.com/Tek-nr/BTSvsALL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tek-nr&repo=BTSvsALL&theme=radical" />
-</a>
+</a>-->
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
