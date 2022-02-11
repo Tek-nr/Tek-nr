@@ -13,7 +13,7 @@
 ⚡ Fun fact: I hate Nutella <br> 
  </div>
  
-<br><br><br><br>
+<br><br><br>
 
 <div align="center">
 <a><img  src="https://github-readme-stats.vercel.app/api?username=Tek-nr&show_icons=true&theme=radical" alt="tek-nr" width="49%"></a>
