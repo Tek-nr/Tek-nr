@@ -19,7 +19,7 @@
 <a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tek-nr&theme=radical" alt="tek-nr" width="49%"></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tek-nr&show_icons=true&locale=en&layout=compact&theme=radical" alt="tek-nr" width="40%"></p>
 </div>
-
+<br><br>
 <!--<a href="https://github.com/Tek-nr/a-life-on-the-street">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tek-nr&repo=a-life-on-the-street&theme=radical" />
 </a>
