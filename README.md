@@ -9,7 +9,7 @@
 🌙 Junior at Gazi University Computer Engineering Department. <br>
 🔭 Currently working on Data Science, Machine Learning <br>
 🤖 Currently learning Machine Learning & Project Management <br>
-👾 Participant of Kodluyoruz Data Science Bootcamp & Google Game and Application Academy <br>
+👾 Junior Product Manager @ makromusic & Data Science/Machine Learning Engineer Intern @ CicekSepeti.com/Lolaflora.com & Participant of Google Game and Application Academy <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/hilalntek/">LinkedIn</a> <br>
 ⚡ Fun fact: I hate Nutella <br> 
  </div>
