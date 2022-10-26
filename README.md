@@ -10,7 +10,6 @@
 👾 Currently working on Data Science, Machine Learning <br>
 🤖 Currently learning Machine Learning & Project Management <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/hilalntek/">LinkedIn</a> <br>
-⚡ Fun fact: I hate Nutella <br> 
  </div>
 
 <br><br>
