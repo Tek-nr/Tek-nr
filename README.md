@@ -6,7 +6,7 @@
  
 <img align="left" src = "https://camo.githubusercontent.com/f2c0d48918dd65b9b4ed7580e06500686775cbcd0c73e8cef52ede011773728b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f674142504c56346c4a3577734d2f67697068792e676966" width="475" height="250">
 
-🌙 Junior at Gazi University Computer Engineering Department. <br>
+🌙 Senior at Gazi University Computer Engineering Department. <br>
 👾 Currently working on Data Science, Machine Learning <br>
 🤖 Currently learning Machine Learning & Project Management <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/hilalntek/">LinkedIn</a> <br>
