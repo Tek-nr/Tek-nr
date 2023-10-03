@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi, Earthlings 🪐</h1>
-<h3 align="center">✨I'm a passionate undergraduate student from somewhere in the universe ✨</h3>
+<h3 align="center">✨ I Hope You're Doing Good ✨</h3>
 
 <div>
  
